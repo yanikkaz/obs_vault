@@ -1,0 +1,7 @@
+{
+  "remoteURL": "git@github.com:yanikkaz/obs_vault.git",
+  "gitLocation": "",
+  "syncinterval": 2,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
